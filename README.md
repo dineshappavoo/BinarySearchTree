@@ -1,4 +1,4 @@
-BinarySearchTree
+Binary Search Tree
 ================
 
 Implementation of Binary Search Tree without recursion in java
