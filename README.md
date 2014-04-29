@@ -12,7 +12,7 @@ This project implemented in java without using recursion to improve the performa
 
 Original release notes from 2014
 ================================
-It’s a simple enough data structure. It takes any comparable object as input.
+It’s a simple enough data structure. It takes comparable object(Long) as input.
 
 The following code snippet shows how to run the library,
 
