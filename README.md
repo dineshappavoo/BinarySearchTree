@@ -13,8 +13,7 @@ Implementation of Binary Search Tree without recursion in java.This project impl
     lookup(key)
     
 
-Original release notes from 2014
-================================
+##Original release notes from 2014
 It’s a simple enough data structure. It takes comparable object(Long) as input.The following code snippet shows how to run the library,
 
 
